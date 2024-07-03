@@ -22,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -46,54 +49,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CloudEurekaServer7002Application.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.cloud-api-commons [clean].executor": "Run",
-    "Maven.cloud-api-commons [install].executor": "Run",
-    "Maven.cloud2020 [install].executor": "Run",
-    "Maven.mscloud [clean].executor": "Run",
-    "Maven.mscloud [install].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.CloudConsumerFeignHystrixOrder80Application.executor": "Run",
-    "Spring Boot.CloudConsumerFeignOrder80Application.executor": "Run",
-    "Spring Boot.CloudConsumerHystrixDashboard9001Application.executor": "Run",
-    "Spring Boot.CloudConsumerOrder80Application.executor": "Run",
-    "Spring Boot.CloudEurekaServer7001Application.executor": "Run",
-    "Spring Boot.CloudEurekaServer7002Application.executor": "Run",
-    "Spring Boot.CloudGateway9527Application.executor": "Run",
-    "Spring Boot.CloudProviderHystrixPayment8001Application.executor": "Run",
-    "Spring Boot.CloudStreamRabbitmqConsumer8802Application.executor": "Run",
-    "Spring Boot.CloudStreamRabbitmqConsumer8803Application.executor": "Run",
-    "Spring Boot.CloudStreamRabbitmqProvider8801Application.executor": "Run",
-    "Spring Boot.CloudalibabaConfigNacosClient3377Application.executor": "Run",
-    "Spring Boot.CloudalibabaConsumerNacosOrder83Application.executor": "Run",
-    "Spring Boot.CloudalibabaProviderPayment9001Application.executor": "Run",
-    "Spring Boot.CloudalibabaProviderPayment9002Application.executor": "Run",
-    "Spring Boot.PaymentMain8001.executor": "Run",
-    "Spring Boot.PaymentMain8002.executor": "Run",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/project/com.atguigu.springcloud/mscloud/cloudalibaba-config-nacos-client3377/src/main/java/com/atguigu/springcloud",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "project.propCompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CloudEurekaServer7002Application.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.cloud-api-commons [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.cloud-api-commons [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.cloud2020 [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mscloud [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mscloud [install].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.CloudConsumerFeignHystrixOrder80Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudConsumerFeignOrder80Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudConsumerHystrixDashboard9001Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudConsumerOrder80Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudEurekaServer7001Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudEurekaServer7002Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudGateway9527Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudProviderHystrixPayment8001Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudStreamRabbitmqConsumer8802Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudStreamRabbitmqConsumer8803Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudStreamRabbitmqProvider8801Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudalibabaConfigNacosClient3377Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudalibabaConsumerNacosOrder83Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudalibabaProviderPayment9001Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CloudalibabaProviderPayment9002Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.PaymentMain8001.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.PaymentMain8002.executor&quot;: &quot;Run&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/project/com.atguigu.springcloud/mscloud/cloudalibaba-config-nacos-client3377/src/main/java/com/atguigu/springcloud&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
